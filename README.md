@@ -1,7 +1,6 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Nanum+Gothic&size=30&pause=1000&color=6C63FF&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+민경+문" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Pacifico&size=28&duration=3000&color=20C997&center=true&vCenter=true&width=450&lines=Hi!+I'm+Minkyoung+Moon+:D" alt="Typing SVG" />
 </h1>
-<h3 align="center">📌 백엔드 개발자 지망생 | 꾸준히 성장하는 개발자</h3>
 
 <p align="center">
   <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/email-D14836?style=flat&logo=gmail&logoColor=white"/></a>
