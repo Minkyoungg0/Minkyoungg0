@@ -52,10 +52,13 @@
 
 ---
 
-#### 📌 Pinned
-<table> <tr> <td> <a href="https://github.com/Minkyoungg0/My-Projects-Portfolio"> <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Minkyoungg0&repo=My-Projects-Portfolio&theme=default" /> </a> </td> </tr> </table>
+### 🧮 Algorithm Ranking
 
-
+<p align="center">
+  <a href="https://solved.ac/ryuchae">
+    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=ess0520" alt="solved.ac tier"/>
+  </a>
+</p>
 
 ---
 
@@ -64,16 +67,6 @@
 | 프로젝트 | 설명 | 기술 스택 | 링크 |
 |----------|------|-----------|------|
 | **Todo List** | CRUD 기능을 구현한 ToDo 리스트 웹앱 | Java, Spring Boot, Thymeleaf | [🔗 GitHub](https://github.com/Minkyoungg0/todolist) |
-
----
-
-### 🧮 Algorithm Ranking
-
-<p align="center">
-  <a href="https://solved.ac/ryuchae">
-    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=ess0520" alt="solved.ac tier"/>
-  </a>
-</p>
 
 ---
 > 새로운 기술에 도전하고, 배운 것을 나누며 지속적으로 발전하는 개발자가 되겠습니다 🙌
