@@ -48,31 +48,16 @@
 <table>
   <tr>
     <td align="center" width="250">
-      <a href="https://github.com/yourgithub/project1" target="_blank">
-        <img src="https://repository-images.githubusercontent.com/프로젝트1-ID/size" alt="Project 1" width="200" />
+      <a href="https://github.com/Minkyoungg0/My-Projects-Portfolio" target="_blank">
         <br/>
-        <b>Project 1</b>
+        <b>My Projects Portfolio</b>
       </a>
-      <p>프로젝트 1에 대한 간단한 설명을 여기에 작성하세요.</p>
-    </td>
-    <td align="center" width="250">
-      <a href="https://github.com/yourgithub/project2" target="_blank">
-        <img src="https://repository-images.githubusercontent.com/프로젝트2-ID/size" alt="Project 2" width="200" />
-        <br/>
-        <b>Project 2</b>
-      </a>
-      <p>프로젝트 2에 대한 간단한 설명을 여기에 작성하세요.</p>
-    </td>
-    <td align="center" width="250">
-      <a href="https://github.com/yourgithub/project3" target="_blank">
-        <img src="https://repository-images.githubusercontent.com/프로젝트3-ID/size" alt="Project 3" width="200" />
-        <br/>
-        <b>Project 3</b>
-      </a>
-      <p>프로젝트 3에 대한 간단한 설명을 여기에 작성하세요.</p>
+      <p>스스로 탐구하고 기획하여 진행한 다양한 미니 프로젝트들을 모아놓은 포트폴리오입니다.😊</p>
     </td>
   </tr>
 </table>
+
+
 
 ---
 
