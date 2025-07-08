@@ -1,5 +1,12 @@
-<h2 align="center">✨ Minkyoung Moon ✨</h2>
-<p align="center">Backend Developer in progress · 꾸준히 성장 중인 개발자입니다 🚀</p>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:20C997,100:87EBAE&height=200&section=header" />
+</p>
+
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Pacifico&size=36&duration=2500&color=006400&center=true&vCenter=true&width=500&lines=Hi!+I'm+Minkyoung+Moon+:D" alt="Typing SVG" />
+</h1>
+
+<p align="center"> </p>
 
 
 <p align="center">
@@ -10,16 +17,7 @@
 
 ---
 
-## 👩‍💻 About Me
-
-- 🎓 **정보처리기사**, **SQLD** 자격증 보유
-- 🌱 Spring Boot & JPA 학습 중  
-- 🧠 금융 IT 백엔드 개발자로 성장하고 싶어요
-- 📌 포트폴리오: [My-Personal-Projects-Portfolio](https://github.com/yourgithub/My-Personal-Projects-Portfolio)
-
----
-
-## 🛠 Tech Stack
+### 🛠 Tech Stack
 
 ### 💻 Language & Framework
 <p>
@@ -46,7 +44,39 @@
 
 ---
 
-## 📌 My Projects
+### 📌 Pinned
+<table>
+  <tr>
+    <td align="center" width="250">
+      <a href="https://github.com/yourgithub/project1" target="_blank">
+        <img src="https://repository-images.githubusercontent.com/프로젝트1-ID/size" alt="Project 1" width="200" />
+        <br/>
+        <b>Project 1</b>
+      </a>
+      <p>프로젝트 1에 대한 간단한 설명을 여기에 작성하세요.</p>
+    </td>
+    <td align="center" width="250">
+      <a href="https://github.com/yourgithub/project2" target="_blank">
+        <img src="https://repository-images.githubusercontent.com/프로젝트2-ID/size" alt="Project 2" width="200" />
+        <br/>
+        <b>Project 2</b>
+      </a>
+      <p>프로젝트 2에 대한 간단한 설명을 여기에 작성하세요.</p>
+    </td>
+    <td align="center" width="250">
+      <a href="https://github.com/yourgithub/project3" target="_blank">
+        <img src="https://repository-images.githubusercontent.com/프로젝트3-ID/size" alt="Project 3" width="200" />
+        <br/>
+        <b>Project 3</b>
+      </a>
+      <p>프로젝트 3에 대한 간단한 설명을 여기에 작성하세요.</p>
+    </td>
+  </tr>
+</table>
+
+---
+
+### 📌 My Projects
 스스로 탐구하고 기획하여 진행한 다양한 미니 프로젝트들을 모아놓은 포트폴리오입니다.😊
 
 | 프로젝트 | 설명 | 기술 스택 | 링크 |
@@ -54,19 +84,13 @@
 | **Todo List** | CRUD 기능을 구현한 ToDo 리스트 웹앱 | Java, Spring Boot, Thymeleaf, MySQL | [🔗 GitHub](https://github.com/yourgithub/todo-list) |
 | **금융데이터 분석기** | 금융 데이터를 시각화하여 보여주는 웹 서비스 | Python, Pandas, Flask | [🔗 GitHub](https://github.com/yourgithub/finance-analyzer) |
 
+| **금융데이터 분석기** | 금융 데이터를 시각화하여 보여주는 웹 서비스 | Python, Pandas, Flask | [🔗 GitHub](https://github.com/yourgithub/finance-analyzer) |
+
 > 👉 전체 포트폴리오는 [📂 My-Personal-Projects-Portfolio](https://github.com/yourgithub/My-Personal-Projects-Portfolio)에서 확인 가능
 
 ---
 
-## 🧠 Studying
-
-- [정보처리기사 정리 노트](https://link.com)
-- [Spring 강의 정리](https://link.com)
-- [SQLD 정리 및 실습](https://link.com)
-
----
-
-## 🧮 Algorithm Ranking
+### 🧮 Algorithm Ranking
 
 <p align="center">
   <a href="https://solved.ac/ryuchae">
