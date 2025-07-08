@@ -1,6 +1,8 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Satisfy&size=32&pause=10000&color=006400&center=true&vCenter=true&width=500&lines=🌱+Hi!+I'm+Minkyoung+Moon+:D" alt="Hi! I'm Minkyoung Moon :D" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Baloo+2&size=32&pause=10000&color=006400&center=true&vCenter=true&width=500&lines=🌱+Hi!+I'm+Minkyoung+Moon+:D" alt="Hi! I'm Minkyoung Moon :D" />
 </h1>
+🚀 백엔드 개발을 시작으로 시스템의 전체적인 이해를 추구하며, 현재는 인프라 영역까지 학습 범위를 확장하여 안정적이고 확장 가능한 서비스 구축을 목표로 하고 있습니다.
+서버 개발부터 배포, 운영까지 전 과정을 아우르는 풀스택 백엔드 엔지니어로 성장하기 위해 꾸준히 학습하고 있습니다.
 
 
 <p align="center"> </p>
@@ -11,13 +13,6 @@
   <a href="https://velog.io/@yourvelog"><img src="https://img.shields.io/badge/velog-20C997?style=flat&logo=velog&logoColor=white"/></a>
   <a href="https://github.com/yourgithub"><img src="https://img.shields.io/badge/github-181717?style=flat&logo=github&logoColor=white"/></a>
 </p>
-
----
-
-#### 🧾 Certifications
-
-📘 SQLD 
-📙 정보처리기사
 
 ---
 
@@ -45,6 +40,13 @@
   <img src="https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=flat&logo=intellijidea&logoColor=white"/>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white"/>
 </p>
+
+---
+
+#### 🧾 Certifications
+
+📘 SQLD <br>
+📙 정보처리기사
 
 ---
 
