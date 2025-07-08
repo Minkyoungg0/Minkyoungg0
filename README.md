@@ -1,6 +1,7 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Pacifico&size=36&duration=2500&color=006400&center=true&vCenter=true&width=500&lines=Hi!+I'm+Minkyoung+Moon+:D" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Satisfy&size=32&pause=10000&color=006400&center=true&vCenter=true&width=500&lines=🌱+Hi!+I'm+Minkyoung+Moon+:D" alt="Hi! I'm Minkyoung Moon :D" />
 </h1>
+
 
 <p align="center"> </p>
 
@@ -13,9 +14,16 @@
 
 ---
 
-### 🛠 Tech Stack
+### 🧾 Certifications
 
-### 💻 Language & Framework
+- 📘 SQLD 
+- 📙 정보처리기사 –  
+
+---
+
+#### 🛠 Tech Stack
+
+#### 💻 Language & Framework
 <p>
   <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white"/>
   <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white"/>
@@ -23,14 +31,14 @@
   <img src="https://img.shields.io/badge/Thymeleaf-005F0F?style=flat&logo=spring&logoColor=white"/>
 </p>
 
-### 🗃 Database
+#### 🗃 Database
 <p>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white"/>
   <img src="https://img.shields.io/badge/Oracle-F80000?style=flat&logo=oracle&logoColor=white"/>
   <img src="https://img.shields.io/badge/DBeaver-372923?style=flat&logo=datagrip&logoColor=white"/>
 </p>
 
-### ⚙️ Tools & IDE
+#### ⚙️ Tools & IDE
 <p>
   <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"/>
@@ -40,7 +48,7 @@
 
 ---
 
-### 📌 Pinned
+#### 📌 Pinned
 <table>
   <tr>
     <td align="center" width="250">
