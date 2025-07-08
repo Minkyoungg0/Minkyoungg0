@@ -85,6 +85,4 @@
 </p>
 
 ---
-<a href="https://velog.io/@ess0520">
-  <img src="https://img.shields.io/badge/velog-20C997?style=flat&logo=velog&logoColor=white" alt="Velog" /></a>
 > 새로운 기술에 도전하고, 배운 것을 나누며 지속적으로 발전하는 개발자가 되겠습니다 🙌
