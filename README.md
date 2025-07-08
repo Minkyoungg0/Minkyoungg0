@@ -73,7 +73,7 @@
 
 | 프로젝트 | 설명 | 기술 스택 | 링크 |
 |----------|------|-----------|------|
-| **Todo List(예시)** | CRUD 기능을 구현한 ToDo 리스트 웹앱 | Java, Spring Boot, Thymeleaf, MySQL | [🔗 GitHub](https://github.com/yourgithub/todo-list) |
+| **Todo List** | CRUD 기능을 구현한 ToDo 리스트 웹앱 | Java, Spring Boot, Thymeleaf | [🔗 GitHub](https://github.com/Minkyoungg0/todolist) |
 
 ---
 
