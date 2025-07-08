@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:20C997,100:87EBAE&height=200&section=header" />
-</p>
-
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Pacifico&size=36&duration=2500&color=006400&center=true&vCenter=true&width=500&lines=Hi!+I'm+Minkyoung+Moon+:D" alt="Typing SVG" />
 </h1>
