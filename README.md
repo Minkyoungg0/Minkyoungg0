@@ -9,9 +9,10 @@
 
 
 <p align="center">
-  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/email-D14836?style=flat&logo=gmail&logoColor=white"/></a>
-  <a href="https://velog.io/@yourvelog"><img src="https://img.shields.io/badge/velog-20C997?style=flat&logo=velog&logoColor=white"/></a>
-  <a href="https://github.com/yourgithub"><img src="https://img.shields.io/badge/github-181717?style=flat&logo=github&logoColor=white"/></a>
+  <a href="mailto:ess5607@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://velog.io/@ess0520">
+  <img src="https://img.shields.io/badge/velog-20C997?style=flat&logo=velog&logoColor=white" alt="Velog" /></a>
 </p>
 
 ---
