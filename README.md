@@ -1,4 +1,6 @@
-<h1 align="center">Hi 👋, I'm 민경 문</h1>
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Nanum+Gothic&size=30&pause=1000&color=6C63FF&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+민경+문" alt="Typing SVG" />
+</h1>
 <h3 align="center">📌 백엔드 개발자 지망생 | 꾸준히 성장하는 개발자</h3>
 
 <p align="center">
