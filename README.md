@@ -68,7 +68,7 @@
 
 | 프로젝트 | 설명 | 기술 스택 | 링크 |
 |----------|------|-----------|------|
-| **PartitioningDB** | 대용량 데이터 파티셔닝을 통한 성능 비교 | MySQL, DBeaver | [🔗 GitHub](https://github.com/dldydgns/PartitioningDBt) |
+| **PartitioningDB** | 대용량 데이터 파티셔닝을 통한 성능 비교 | MySQL, DBeaver | [🔗 GitHub](https://github.com/dldydgns/PartitioningDB) |
 
 ---
 > 새로운 기술에 도전하고, 배운 것을 나누며 지속적으로 발전하는 개발자가 되겠습니다 🙌
