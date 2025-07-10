@@ -68,7 +68,7 @@
 
 | 프로젝트 | 설명 | 기술 스택 | 링크 |
 |----------|------|-----------|------|
-| **Todo List** | CRUD 기능을 구현한 ToDo 리스트 웹앱 | Java, Spring Boot, Thymeleaf | [🔗 GitHub](https://github.com/Minkyoungg0/todolist) |
+| **PartitioningDB** | 대용량 데이터 파티셔닝을 통한 성능 비교 | MySQL, DBeaver | [🔗 GitHub](https://github.com/dldydgns/PartitioningDBt) |
 
 ---
 > 새로운 기술에 도전하고, 배운 것을 나누며 지속적으로 발전하는 개발자가 되겠습니다 🙌
