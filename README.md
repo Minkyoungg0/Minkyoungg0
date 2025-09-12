@@ -54,9 +54,10 @@
 
 | 프로젝트 | 이미지 | 설명 | 링크 |
 |----------|------|-----------|------|
-| **ELK & EFK** | <img src="./img/ELKvsEFK.png"/> | Elasticsearch 기반 ELK·EFK 스택을 직접 구축·비교하여 동작 원리와 성능 차이를 분석한 프로젝트 | [GitHub](https://github.com/Gill010147/elk_efk_tech_seminar)  |
-| **PartitioningDB**| <img src="./img/DBpartitioning.png"/>  | 대용량 데이터를 파티셔닝 기법으로 분할하여 조회 성능을 비교하고, 실행 계획 분석을 통해 최적화 방안을 탐구한 실험 프로젝트 | [GitHub](https://github.com/Minkyoungg0/PartitioningDB.git)  |
-| **무비무비**| <img src="./img/jpa.png"/> | JPA 활용 영화 카테고리 & 필터를 구현한 영화 검색 페이지 | [GitHub](https://github.com/songhajang/movieJPA)  |
+| **ELK & EFK** | <img src="./img/ELKvsEFK.png" width="220" loading="lazy" alt="ELK vs EFK 썸네일"/> | Elasticsearch 기반 ELK·EFK 스택을 직접 구축·비교하여 동작 원리와 성능 차이를 분석한 프로젝트 | [GitHub](https://github.com/Gill010147/elk_efk_tech_seminar)  |
+| **PartitioningDB**| <img src="./img/DBpartitioning.png" width="220" loading="lazy" alt="PartitioningDB 썸네일"/>  | 대용량 데이터를 파티셔닝 기법으로 분할하여 조회 성능을 비교하고, 실행 계획 분석을 통해 최적화 방안을 탐구한 실험 프로젝트 | [GitHub](https://github.com/Minkyoungg0/PartitioningDB.git)  |
+| **무비무비**| <img src="./img/jpa.png" width="220" loading="lazy" alt="무비무비 썸네일"/> | JPA 활용 영화 카테고리 & 필터를 구현한 영화 검색 페이지 | [GitHub](https://github.com/songhajang/movieJPA)  |
+
 
 ---
 > 새로운 기술에 도전하고, 배운 것을 나누며 지속적으로 발전하는 개발자가 되겠습니다 🙌
