@@ -52,11 +52,11 @@
 
 ### 📌 Projects
 
-| 프로젝트 | 이미지 | 설명 | 링크 |
-|----------|------|-----------|------|
-| **ELK & EFK** | <img src="./img/ELKvsEFK.png" width="200" loading="lazy" alt="ELK vs EFK 썸네일"/> | Elasticsearch 기반 **ELK·EFK 스택을 직접 구축·비교**하여 동작 원리와 성능 차이를 분석한 프로젝트 | [GitHub](https://github.com/Gill010147/elk_efk_tech_seminar)  |
-| **PartitioningDB**| <img src="https://github.com/user-attachments/assets/b4e0c6fa-aff4-466c-9425-b639aca65d3f" width="200" loading="lazy" alt="PartitioningDB 썸네일"/> | **대용량 데이터를 파티셔닝 기법으로 분할하여 조회 성능을 비교**하고, 실행 계획 분석을 통해 최적화 방안을 탐구한 실험 프로젝트 | [GitHub](https://github.com/Minkyoungg0/PartitioningDB.git)  |
-| **무비무비**| <img src="./img/jpa.png" width="200" loading="lazy" alt="무비무비 썸네일"/> | **JPA 활용** 영화 카테고리 & 필터를 구현한 영화 검색 페이지 | [GitHub](https://github.com/songhajang/movieJPA)  |
+| No | 프로젝트 이름 | 사진 | 주요 내용 | 링크 |
+|---|---|---|---|---|
+| 1 | **ELK & EFK** | <img src="./img/ELKvsEFK.png" width="200" loading="lazy" alt="ELK vs EFK 썸네일"/> | **ELK·EFK 스택을 직접 구축·비교**하여 동작 원리와 성능 차이를 분석 | [🔗](https://github.com/Gill010147/elk_efk_tech_seminar) |
+| 2 | **PartitioningDB** | <img src="https://github.com/user-attachments/assets/b4e0c6fa-aff4-466c-9425-b639aca65d3f" width="200"/> | **대용량 데이터를 파티셔닝 기법**으로 분할하여 조회 성능을 비교 | [🔗](https://github.com/Minkyoungg0/PartitioningDB.git) |
+| 3 | **무비무비** | <img src="./img/jpa.png" width="200" loading="lazy" alt="무비무비 썸네일"/> |  **JPA 활용** 영화 카테고리 & 필터를 구현한 영화 검색 페이지 | [🔗](https://github.com/songhajang/movieJPA) |
 
 ---
 > 새로운 기술에 도전하고, 배운 것을 나누며 지속적으로 발전하는 개발자가 되겠습니다 🙌
