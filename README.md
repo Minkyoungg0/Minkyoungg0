@@ -63,12 +63,10 @@
 
 | No | 프로젝트 이름 | 사진 | 주요 내용 | 링크 |
 |---|---|---|---|---|
-| 1 | **CVEXPERT** | <img src="https://github.com/user-attachments/assets/2cf04487-ff14-47f8-bf1d-ccde0e1a2b87" width="200" loading="lazy" alt="CVEXPERT 썸네일"/> | **하이브리드 클라우드 기반 CVE 취약점 실습 플랫폼** | [🔗](https://github.com/fisagmg) |
+| 1 | **CVEXPERT** | <img src="https://github.com/user-attachments/assets/488358cb-ace8-4014-adb2-282f71814f53" width="200" loading="lazy" alt="CVEXPERT 실습 GIF"/> | **하이브리드 클라우드 기반 CVE 취약점 실습 플랫폼** | [🔗](https://github.com/fisagmg) |
 | 2 | **ELK & EFK** | <img src="./img/ELKvsEFK.png" width="200" loading="lazy" alt="ELK vs EFK 썸네일"/> | **ELK·EFK 스택을 구축·비교**하여 동작 원리와 성능 차이를 분석 | [🔗](https://github.com/Gill010147/elk_efk_tech_seminar) |
 | 3 | **PartitioningDB** | <img src="https://github.com/user-attachments/assets/b4e0c6fa-aff4-466c-9425-b639aca65d3f" width="200" loading="lazy" alt="PartitioningDB 썸네일"/> | **대용량 데이터를 파티셔닝 기법**으로 분할하여 조회 성능을 비교 | [🔗](https://github.com/Minkyoungg0/PartitioningDB.git) |
 | 4 | **무비무비** | <img src="./img/jpa.png" width="200" loading="lazy" alt="무비무비 썸네일"/> | **JPA 활용** 영화 카테고리 & 필터를 구현한 영화 검색 페이지 | [🔗](https://github.com/songhajang/movieJPA) |
-
-
 
 ---
 > 새로운 기술에 도전하고, 배운 것을 나누며 지속적으로 발전하는 개발자가 되겠습니다 🙌
