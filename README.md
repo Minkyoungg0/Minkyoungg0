@@ -2,8 +2,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Baloo+2&size=32&pause=10000&color=006400&center=true&vCenter=true&width=500&lines=🌱+Hi!+I'm+Minkyoung+Moon+:D" alt="Hi! I'm Minkyoung Moon :D" />
 </h1>
 <div>
-🚀 백엔드 개발을 시작으로 인프라까지 학습을 확장하고 있습니다. <br>
-👀 최근에는 네트워크와 클라우드에 관심이 많습니다.  
+🚀 백엔드 개발을 시작으로 인프라까지 학습을 확장하고 있습니다.
 
 
 </div>
