@@ -44,6 +44,7 @@
 | 최종 프로젝트 | 프로젝트 최우수상 | 우리FIS 아카데미 | 하이브리드 클라우드 기반 취약점 실습 보안 트레이닝 플랫폼 |
 | 기술 세미나 | 우수상 | 우리FIS 아카데미 | ELK와 EFK 스택의 구조·원리 이해 및 비교 |
 | 기술 세미나 (개인) | 우수상 | 우리FIS 아카데미 | Spring AI 기반 생성형 AI 연동 아키텍처 분석 |
+| 제4회 2026 블레이버스 MVP 개발 해커톤 | 최우수상 | 블레이버스 | 설스터디: 수능 국영수 학습 코칭 플랫폼 |
 
 
 <!-- ---
@@ -63,9 +64,10 @@
 | No | 프로젝트 이름 | 사진 | 주요 내용 | 링크 |
 |---|---|---|---|---|
 | 1 | **CVEXPERT** | <img src="https://github.com/user-attachments/assets/488358cb-ace8-4014-adb2-282f71814f53" width="200" loading="lazy" alt="CVEXPERT 실습 GIF"/> | **하이브리드 클라우드 기반 CVE 취약점 실습 플랫폼** | [🔗](https://github.com/fisagmg) |
-| 2 | **ELK & EFK** | <img src="./img/ELKvsEFK.png" width="200" loading="lazy" alt="ELK vs EFK 썸네일"/> | **ELK·EFK 스택을 구축·비교**하여 동작 원리와 성능 차이를 분석 | [🔗](https://github.com/Gill010147/elk_efk_tech_seminar) |
-| 3 | **PartitioningDB** | <img src="https://github.com/user-attachments/assets/b4e0c6fa-aff4-466c-9425-b639aca65d3f" width="200" loading="lazy" alt="PartitioningDB 썸네일"/> | **대용량 데이터를 파티셔닝 기법**으로 분할하여 조회 성능을 비교 | [🔗](https://github.com/Minkyoungg0/PartitioningDB.git) |
-| 4 | **무비무비** | <img src="./img/jpa.png" width="200" loading="lazy" alt="무비무비 썸네일"/> | **JPA 활용** 영화 카테고리 & 필터를 구현한 영화 검색 페이지 | [🔗](https://github.com/songhajang/movieJPA) |
+| 2 | **설스터디** | <img width="200" height="100" alt="image" src="https://github.com/user-attachments/assets/6d2ff5f2-ba33-4964-a68a-6a699d61df6a" /> | **수능 국영수 학습 코칭 플랫폼** – 멘토/멘티 피드백 기반 학습 관리 MVP | [🔗](https://github.com/D-ev-Rabbit) |
+| 3 | **ELK & EFK** | <img src="./img/ELKvsEFK.png" width="200" loading="lazy" alt="ELK vs EFK 썸네일"/> | **ELK·EFK 스택을 구축·비교**하여 동작 원리와 성능 차이를 분석 | [🔗](https://github.com/Gill010147/elk_efk_tech_seminar) |
+| 4 | **PartitioningDB** | <img src="https://github.com/user-attachments/assets/b4e0c6fa-aff4-466c-9425-b639aca65d3f" width="200" loading="lazy" alt="PartitioningDB 썸네일"/> | **대용량 데이터를 파티셔닝 기법**으로 분할하여 조회 성능을 비교 | [🔗](https://github.com/Minkyoungg0/PartitioningDB.git) |
+| 5 | **무비무비** | <img src="./img/jpa.png" width="200" loading="lazy" alt="무비무비 썸네일"/> | **JPA 활용** 영화 카테고리 & 필터를 구현한 영화 검색 페이지 | [🔗](https://github.com/songhajang/movieJPA) |
 
 ---
 > 새로운 기술에 도전하고, 배운 것을 나누며 지속적으로 발전하는 개발자가 되겠습니다 🙌
